@@ -1,1 +1,1 @@
-Свадебный сайт
+The wedding website.
